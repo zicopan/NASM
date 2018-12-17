@@ -1,6 +1,5 @@
 ; CS 2XA3 FINAL PROJECT
 ; Nico Stepan
-; 001404582
 ;
 ; issues:
 ; I have noticed that due to the number of comments, unless
