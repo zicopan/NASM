@@ -1,5 +1,5 @@
 ; CS 2XA3 FINAL PROJECT
-; Nico Stepan
+; Nico Stepan  (change this filename to sorthem.asm)
 ;
 ; issues:
 ; I have noticed that due to the number of comments, unless
