@@ -17,7 +17,6 @@ This is an example of the output:
                     o|o
           XXXXXXXXXXXXXXXXXXXXXXX
 
-
                     o|o
                    oo|oo
                   ooo|ooo
